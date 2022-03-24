@@ -15,7 +15,7 @@ dependencies:
   - pip
   - cython 
   - pytorch::torchvision
-  - pytorch::pytorch >=1.0.1
+  - pytorch::pytorch==1.11.0=py3.7_cuda10.2_cudnn7.6.5_0
   - cudatoolkit
   - cudnn
   - pytorch::cuda100
